@@ -113,6 +113,11 @@ case ${1:-core} in
     _dq_commands lang ruby
     _dq_commands ruby "*"
     ;;
+  python_dev)
+    _dq_commands lang python
+    _dq_commands lang python3
+    _dq_commands python "*"
+    ;;
   frontend_dev)
     _dq_commands shell "*"
     _dq_commands frontend "*"
