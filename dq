@@ -136,6 +136,7 @@ shell                    :curl              --version
 shell                    :zsh               --version
 shell                    :git               --version
 shell                    :vi                --version
+shell                    :vim               --version
 lang                     :python            --version
 lang                     :python3           --version
 lang                     :perl               -v
