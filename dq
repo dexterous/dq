@@ -160,7 +160,7 @@ ruby                     :rake               -V
 python                   :pip               --version
 python/virtualenvwrapper :pip                 show virtualenvwrapper
 python                   :virtualenv        --version
-scala                    :scala              -version                :1
+scala                    :scala              -version                 :1
 scala                    :scalac             -version
 scala                    :sbt                 sbt-version
 golang                   :godep                                       :2
