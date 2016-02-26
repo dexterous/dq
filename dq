@@ -179,7 +179,7 @@ frontend                 :coffee            --version
 frontend                 :sass              --version
 db/mysql server          :mysqld            --version
 db/mysql client          :mysql             --version
-db/postgres server       :postgres          --version
+db/postgres server       :/usr/share/postgresql-common/supported-versions
 db/postgres client       :psql              --version
 db/mongo server          :mongod            --version
 db/mongo client          :mongo             --version
